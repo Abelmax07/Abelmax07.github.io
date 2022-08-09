@@ -1,0 +1,41 @@
+* {
+  font-family: Helvetica;
+}
+
+body {
+  padding: 15px;
+}
+
+.fullname {
+  color: crimson;
+  
+
+}
+
+.ownerlogin {
+  color: #737373;
+
+}
+
+.descricao {
+  color: #737373;
+}
+
+.foto {
+    border-radius: 100%;
+    width: 100px; 
+
+}
+
+.item{
+  border-bottom: 0.5px solid #737373;
+  margin: 5px;
+  padding: 20px;
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+  color: black;
+}
